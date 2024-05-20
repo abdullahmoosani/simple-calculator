@@ -1,15 +1,16 @@
 {
-  "name": "abd_moosani/project-01",
-  "version": "1.0.0",
-  "description": "",
+  "name": "am-simple-calculator-001",
+  "version": "2.0.0",
+  "description": "added Subtraction , Multiplication & Division",
   "main": "index.js",
   "bin": "index.js",
   "type": "module",
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Abdullah Moosani",
+  "license": "MIT",
   "dependencies": {
     "@types/inquirer": "^9.0.7",
     "inquirer": "^9.2.19"
